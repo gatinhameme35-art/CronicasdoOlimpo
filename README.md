@@ -1,2 +1,1 @@
-# CronicasdoOlimpo
-servidor de RP
+
